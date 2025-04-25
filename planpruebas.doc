@@ -1,0 +1,18 @@
+Caso prueba:
+
+CuentaUsuario usuario(098766, 7875747969, "Pablo Murra Norsi", "A01782395@tec.mx", "equisSomosChavos");
+
+cout << "Que deseas hacer (login, logout, registrar): "; // Responder registrar
+
+Producto producto1(104, "Television", 100000.0);
+Producto producto2(106, "MacBook Air", 23000.0);
+
+Carrito carrito(5041, 2);
+
+Pedido pedido(123456789, "28 de Julio del 2025");
+
+Pago pago(4057, 9876543219876, 09, 2026, 789, "Pablo Murra Norsi");
+
+Paquete paquete(4890, "Lago de Norbit 789", "Fragil");
+
+Envio envio("28 de Julio del 2025", "28 de Julio del 2026");
